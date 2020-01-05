@@ -1,0 +1,8 @@
+﻿  Lab1_Task7.cpp
+D:\NURE\Parallel_Programming\HW\Lab1_Task7\Lab1_Task7\Lab1_Task7.cpp(83,52): warning C4101: 'result1': unreferenced local variable
+  Generating code
+  3 of 15 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lab1_Task7.vcxproj -> D:\NURE\Parallel_Programming\HW\Lab1_Task7\Release\Lab1_Task7.exe

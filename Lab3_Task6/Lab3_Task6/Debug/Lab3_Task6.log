@@ -1,0 +1,22 @@
+﻿  Lab3_Task6.cpp
+D:\NURE\Parallel_Programming\HW\Lab3_Task6\Lab3_Task6\Lab3_Task6.cpp(12,14): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+D:\NURE\Parallel_Programming\HW\Lab3_Task6\Lab3_Task6\Lab3_Task6.cpp(12,14): warning C4244:         with
+D:\NURE\Parallel_Programming\HW\Lab3_Task6\Lab3_Task6\Lab3_Task6.cpp(12,14): warning C4244:         [
+D:\NURE\Parallel_Programming\HW\Lab3_Task6\Lab3_Task6\Lab3_Task6.cpp(12,14): warning C4244:             T=float
+D:\NURE\Parallel_Programming\HW\Lab3_Task6\Lab3_Task6\Lab3_Task6.cpp(12,14): warning C4244:         ]
+D:\NURE\Parallel_Programming\HW\Lab3_Task6\Lab3_Task6\Lab3_Task6.cpp(60): message : see reference to function template instantiation 'void fillData<float>(T *,int)' being compiled
+D:\NURE\Parallel_Programming\HW\Lab3_Task6\Lab3_Task6\Lab3_Task6.cpp(60): message :         with
+D:\NURE\Parallel_Programming\HW\Lab3_Task6\Lab3_Task6\Lab3_Task6.cpp(60): message :         [
+D:\NURE\Parallel_Programming\HW\Lab3_Task6\Lab3_Task6\Lab3_Task6.cpp(60): message :             T=float
+D:\NURE\Parallel_Programming\HW\Lab3_Task6\Lab3_Task6\Lab3_Task6.cpp(60): message :         ]
+D:\NURE\Parallel_Programming\HW\Lab3_Task6\Lab3_Task6\Lab3_Task6.cpp(31,20): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\NURE\Parallel_Programming\HW\Lab3_Task6\Lab3_Task6\Lab3_Task6.cpp(31,20): warning C4244:         with
+D:\NURE\Parallel_Programming\HW\Lab3_Task6\Lab3_Task6\Lab3_Task6.cpp(31,20): warning C4244:         [
+D:\NURE\Parallel_Programming\HW\Lab3_Task6\Lab3_Task6\Lab3_Task6.cpp(31,20): warning C4244:             T=double
+D:\NURE\Parallel_Programming\HW\Lab3_Task6\Lab3_Task6\Lab3_Task6.cpp(31,20): warning C4244:         ]
+D:\NURE\Parallel_Programming\HW\Lab3_Task6\Lab3_Task6\Lab3_Task6.cpp(66): message : see reference to function template instantiation 'void sqrtY<double>(T *,T *,int)' being compiled
+D:\NURE\Parallel_Programming\HW\Lab3_Task6\Lab3_Task6\Lab3_Task6.cpp(66): message :         with
+D:\NURE\Parallel_Programming\HW\Lab3_Task6\Lab3_Task6\Lab3_Task6.cpp(66): message :         [
+D:\NURE\Parallel_Programming\HW\Lab3_Task6\Lab3_Task6\Lab3_Task6.cpp(66): message :             T=double
+D:\NURE\Parallel_Programming\HW\Lab3_Task6\Lab3_Task6\Lab3_Task6.cpp(66): message :         ]
+  Lab3_Task6.vcxproj -> D:\NURE\Parallel_Programming\HW\Lab3_Task6\Debug\Lab3_Task6.exe

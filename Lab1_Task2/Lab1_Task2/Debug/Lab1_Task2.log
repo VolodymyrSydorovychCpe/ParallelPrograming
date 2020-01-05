@@ -1,0 +1,3 @@
+﻿  Lab1_Task2.cpp
+D:\NURE\Parallel_Programming\HW\Lab1_Task2\Lab1_Task2\Lab1_Task2.cpp(18,16): warning C4244: 'return': conversion from 'time_t' to 'int', possible loss of data
+  Lab1_Task2.vcxproj -> D:\NURE\Parallel_Programming\HW\Lab1_Task2\Debug\Lab1_Task2.exe

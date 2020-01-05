@@ -1,0 +1,57 @@
+﻿  Lab3_Task2.cpp
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(85,14): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(85,14): warning C4244:         with
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(85,14): warning C4244:         [
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(85,14): warning C4244:             T=float
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(85,14): warning C4244:         ]
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(122): message : see reference to function template instantiation 'void fillData<float>(T *,T *,int)' being compiled
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(122): message :         with
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(122): message :         [
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(122): message :             T=float
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(122): message :         ]
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(86,14): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(86,14): warning C4244:         with
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(86,14): warning C4244:         [
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(86,14): warning C4244:             T=float
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(86,14): warning C4244:         ]
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(51,1): warning C4302: 'type cast': truncation from '__m256i *' to 'T'
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(51,1): warning C4302:         with
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(51,1): warning C4302:         [
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(51,1): warning C4302:             T=char
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(51,1): warning C4302:         ]
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(139): message : see reference to function template instantiation 'void sumAVX<char>(T *,T *,T *,int,int)' being compiled
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(139): message :         with
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(139): message :         [
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(139): message :             T=char
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(139): message :         ]
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(54,1): warning C4302: 'type cast': truncation from '__m256i *' to 'T'
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(54,1): warning C4302:         with
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(54,1): warning C4302:         [
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(54,1): warning C4302:             T=char
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(54,1): warning C4302:         ]
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(57,1): warning C4302: 'type cast': truncation from '__m256i *' to 'T'
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(57,1): warning C4302:         with
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(57,1): warning C4302:         [
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(57,1): warning C4302:             T=char
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(57,1): warning C4302:         ]
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(51,1): warning C4302: 'type cast': truncation from '__m256i *' to 'T'
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(51,1): warning C4302:         with
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(51,1): warning C4302:         [
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(51,1): warning C4302:             T=short
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(51,1): warning C4302:         ]
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(141): message : see reference to function template instantiation 'void sumAVX<short>(T *,T *,T *,int,int)' being compiled
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(141): message :         with
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(141): message :         [
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(141): message :             T=short
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(141): message :         ]
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(54,1): warning C4302: 'type cast': truncation from '__m256i *' to 'T'
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(54,1): warning C4302:         with
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(54,1): warning C4302:         [
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(54,1): warning C4302:             T=short
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(54,1): warning C4302:         ]
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(57,1): warning C4302: 'type cast': truncation from '__m256i *' to 'T'
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(57,1): warning C4302:         with
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(57,1): warning C4302:         [
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(57,1): warning C4302:             T=short
+D:\NURE\Parallel_Programming\HW\Lab3_Task2\Lab3_Task2\Lab3_Task2.cpp(57,1): warning C4302:         ]
+  Lab3_Task2.vcxproj -> D:\NURE\Parallel_Programming\HW\Lab3_Task2\Debug\Lab3_Task2.exe

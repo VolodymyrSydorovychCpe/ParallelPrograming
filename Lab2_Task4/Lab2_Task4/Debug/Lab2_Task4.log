@@ -1,0 +1,3 @@
+﻿  Lab2_Task4.cpp
+D:\NURE\Parallel_Programming\HW\Lab2_Task4\Lab2_Task4\Lab2_Task4.cpp(32,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lab2_Task4.vcxproj -> D:\NURE\Parallel_Programming\HW\Lab2_Task4\Debug\Lab2_Task4.exe
